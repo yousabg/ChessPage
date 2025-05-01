@@ -42,4 +42,4 @@ Chess.com provides 1 free game rating per day, and using that I was able to coll
 - **item-template.html**: Defining the page that shows a game's data.
 - **item.js**: A script that generates the data for every page to be loaded on item-template.html.
 - **script.js**: A script that generates an item for every game on the homepage.
-- **styles.css**: Defining the design of the page.
+- **styles.css**: Defining the designs of the homepage and item pages.
